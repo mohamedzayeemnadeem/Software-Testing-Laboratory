@@ -28,8 +28,11 @@ The above listed ten points are the most important characteristics of a Banking 
 Banking applications have multiple tiers involved in performing an operation. For Example, a banking application may have:
 
   1.Web Server to interact with end users via Browser
+  
   2.Middle Tier to validate the input and output for web server
+  
   3.Data Base to store data and procedures
+  
   4.Transaction Processor which could be a large capacity Mainframe or any other Legacy system to carry out Trillions of 
     transactions per second.
   
