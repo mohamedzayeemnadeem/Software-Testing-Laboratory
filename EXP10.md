@@ -39,7 +39,8 @@ assert fibR(6) == 7
 
 
 ### Output:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/699fb6f2-2ecd-4b3d-8664-31b32dd86385)
+
 
 
 
