@@ -1,4 +1,4 @@
-# Ex.No: 10  Pytest program for Sum of digits
+# Ex.No: 10  Pytest program for Fibonacci Series
 
 ### DATE: 13-02-2025                                                                           
 ### REGISTER NUMBER :212221040027 
