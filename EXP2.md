@@ -78,3 +78,13 @@ else:
 ### Output:
 ![image](https://github.com/user-attachments/assets/d7a8ad96-d150-4a86-a9eb-cf1957f08dbc)
 
+
+
+
+
+
+
+
+### Result:
+Thus, the python program for matrix multiplication is implemented and the causes for its failure is introspected successfully.
+
