@@ -1,5 +1,5 @@
 # Ex.No: 7  ATM Applicationn
-### DATE: 10-02-2025                                                                           
+### DATE:                                                                            
 ### REGISTER NUMBER : 212222040102
 ### AIM: 
 For ATM system study its system specifications and report various bugs
